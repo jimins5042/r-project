@@ -3,31 +3,31 @@ r을 사용한 데이터분석 프로젝트 정리하였다.
 
 ## 단순 베이즈 및 의사결정 나무를 이용한 공공데이터 분석 및 실습
 
-###
-전체 보고서는 아래 블로그를 참고
-https://velog.io/@2jooin1207/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&slug=Velog-포스트로-Github를-꾸며보자)](https://velog.io/@eungyeole)
-
-
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=2jooin1207&slug=단순-베이즈-및-의사결정-나무를-이용한-공공데이터-분석-및-실습)](https://velog.io/@2jooin1207)
-
-
 
 ### 개요
 - 단순 베이즈 및 의사결정 나무를 이용한 공공데이터 분석 및 실습
 - 성별, 나이, BMI 지수를 분석하여 고혈압 진단 여부를 예측하는 것이 목표
 
-### 결과해석
 
-고혈압 진단 예측을 위해 단순 베이스 분류와 의사결정 나무를 이용하여 모델링을 진행하였다. 두 모델 모두 80% 이상의 예측률을 보여주었다.
-그러나 실제상황이라고 가정해볼 경우, 고혈압인데 고혈압 진단 및 검사를 받을 필요가 없다고 판단한다면 심각한 상황이 될 것이다.
+### 상세 과정
+아래 블로그를 참고
 
-본래 목적이였던 모든 사람들의 검사를 최소화하여 건강검진 속도를 줄이는 것은 힘들 것으로 보인다.
-대신 고혈압 검사를 목적으로 방문하지 않은 사람을 대상으로 고혈압 여부를 예측한 다음, 고혈압 검사를 받도록 하는 방법이 있다.
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=2jooin1207&slug=데이터-분석)](https://velog.io/@2jooin1207/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D)
 
-제한된 인력과 시간을 활용하여 최소한의 검사를 통해 최대한 많은 양성 진단을 내릴 수 있다면, 병원의 효율성과 생산성이 높아질 것이다.
-병원의 생산성이 높아지면 검진 시간의 단축 또한 가능할 것이다.
+
+
 
 ## 건강검진 데이터를 사용한 코로나19의 사회적 영향 분석
+
+### 개요
+2020년도 건강검진 데이터와 2019년도 건강검진 데이터를 비교분석하여  
+코로나19의 사회적 영향을 파악하는 것이 목표.
+
+### 상세 과정
+
+아래 블로그를 참고
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=2jooin1207&slug=데이터-시각화-프로젝트)](https://velog.io/@2jooin1207/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=2jooin1207&slug=건강검진-데이터를-사용한-코로나19의-사회적-영향-분석-2)](https://velog.io/@2jooin1207/%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%A1%9C%EB%82%9819%EC%9D%98-%EC%82%AC%ED%9A%8C%EC%A0%81-%EC%98%81%ED%96%A5-%EB%B6%84%EC%84%9D-2)
+
